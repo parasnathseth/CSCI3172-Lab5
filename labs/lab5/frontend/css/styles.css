@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+}
+
+#form-container {
+    max-width: 40rem;
+}
+
+button:hover {
+    box-shadow: 0rem 0rem 1rem rgb(81, 154, 178);
+}
