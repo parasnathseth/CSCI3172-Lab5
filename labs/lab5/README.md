@@ -99,30 +99,6 @@ The code above was created after referencing the official [Spoonacular API 'Diet
 - [Spoonacular API 'Diet' Docs](https://spoonacular.com/food-api/docs#Diets) were referenced when creating the dropdown menu for dietary restrictions in the form, ensuring that the options in the dropdown correspond to the supported diet types that can be used in the API query.
 
 
-### SVG Emoji Favicon - index.html
-
-*Line 7*
-
-```html
-<link rel="icon" type="image/svg+xml" sizes="any" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍜</text></svg>"/>
-```
-
-The code above was created by adapting the code in [Matan Borenkraout's Article](https://medium.com/@matanbobi/how-to-use-emojis-as-favicons-371795662465) as shown below: 
-
-```html
-<link rel="icon" type="image/svg+xml" sizes="any" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥬</text></svg>"/>
-```
-
-<!---How---> 
-- The code in [Matan Borenkraout's Article](https://medium.com/@matanbobi/how-to-use-emojis-as-favicons-371795662465) was implemented by encoding an SVG image containing an emoji and using it as a favicon for the website.
-
-<!---Why---> 
-- [Matan Borenkraout's Article](https://medium.com/@matanbobi/how-to-use-emojis-as-favicons-371795662465)'s Code was used because I wanted to use an emoji as a favicon for my recipe website, and this article provided a simple and effective way to do so using an SVG image encoded in the href attribute of the link tag.
-
-<!---How---> 
-- [Matan Borenkraout's Article](https://medium.com/@matanbobi/how-to-use-emojis-as-favicons-371795662465)'s Code was modified by changing the emoji in the SVG from 🥬 to 🍜 to fit the theme of my recipe website.
-
-
 ### Regex101 to Develop Regex - script.js
 
 *Line 46*
