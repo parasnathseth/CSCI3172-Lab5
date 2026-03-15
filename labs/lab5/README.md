@@ -2,9 +2,9 @@
 
 * *Date Created*: 04 March 2026
 * *Last Modification Date*: 15 March 2026
-* *Lab Netlify URL*: <http://example.com/>
-* *Lab Gitlab URL*: <http://example.com/>
-* *Lab GitHub URL*: <http://example.com/>
+* *Lab Netlify URL*: https://csci3172-lab5-b00917465.netlify.app/
+* *Lab Gitlab URL*: https://git.cs.dal.ca/pseth/csci-3172/-/tree/main/labs/lab5?ref_type=heads
+* *Lab GitHub URL*: https://github.com/parasnathseth/CSCI3172-Lab5/tree/main/labs/lab5
 
 
 ## Authors
